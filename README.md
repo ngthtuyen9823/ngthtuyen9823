@@ -6,18 +6,7 @@
 
 ## Skills
 
-- 💻 Java, Spring Boot, Servlet, JDBC, JSTL
-- 🌐 HTML, CSS
-- 🔧 C#
+- 💻 Java, Spring Boot, Servlet, JDBC, JPA, JSTL
+- 🌐 HTML, CSS, Thymeleaf, Bootstrap
+- 🔧 C#, Ado.net
 - 📊 SQL
-
-## Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tuyen9823/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070234643413" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-  </a>
-</p>
